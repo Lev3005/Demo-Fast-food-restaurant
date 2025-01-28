@@ -144,6 +144,12 @@
     border: 1px solid white;
 }
 
+.backet__price {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 30px 0px 30px 0px;
+}
+
 /* ======================================== */
 
 @media (max-width: 1920px) {
